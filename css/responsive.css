@@ -234,5 +234,11 @@
         position: static;
     }
 
+    .header-head{
+        position: relative;
+        height: auto;
+        background-size: 100% 200%;
+    }
+
 
 }

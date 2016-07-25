@@ -23,8 +23,9 @@ a{
 
 .header-head{
     position: relative;
-    background: url("../images/header-fon.png");
+    background: url("../images/header-fon.png") repeat;
     height: 585px;
+
 }
 
 .header-line{
