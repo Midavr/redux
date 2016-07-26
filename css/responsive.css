@@ -178,6 +178,14 @@
 
 }
 
+@media all and (min-width : 541px) {
+    .header-dropdown ul li:hover > ul
+    {
+        display:block
+    }
+}
+
+
 @media all and (max-width : 540px) {
 
 
@@ -239,6 +247,5 @@
         height: auto;
         background-size: 100% 200%;
     }
-
 
 }

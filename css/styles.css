@@ -150,10 +150,6 @@ p { text-align: center; }
     left:100%
 }
 
-.header-dropdown ul li:hover > ul
-{
-    display:block
-}
 /*-----------dropdown-end----------*/
 .header-title{
     margin-top: 60px;
